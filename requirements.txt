@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pydantic
+scikit-learn
+numpy
+diffusers 
+transformers 
+accelerate 
+torch
